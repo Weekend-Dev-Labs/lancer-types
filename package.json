@@ -1,5 +1,5 @@
 {
-  "name": "lancer-types",
+  "name": "@types/lancer",
   "version": "1.0.0",
   "description": "Type definitions for lancer server",
   "typings": "./index.d.ts",
